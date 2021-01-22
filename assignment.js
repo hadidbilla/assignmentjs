@@ -55,4 +55,4 @@ function megaFriend(nameArry) {
   return maxName;
 }
 console.log(megaFriend(["Hadid", "Billa", "hridoy"]));
-/*--------------------------------- End----problem--3 ----------------------------------*/
+/*--------------------------------- End----problem--4 ----------------------------------*/
